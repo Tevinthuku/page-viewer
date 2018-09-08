@@ -1,0 +1,12 @@
+{
+  "title": "Material demo",
+  "description": "https://github.com/oliviertassinari/react-swipeable-views/tree/master/docs/src/pages/demos/DemoAxis.js",
+  "dependencies": {
+    "@material-ui/core": "3.0.2",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-swipeable-views": "latest"
+  },
+  "keywords": [],
+  "name": "page-viewer"
+}
