@@ -91,6 +91,7 @@ class SwipeableTextMobileStepper extends React.Component {
           index={this.state.activeStep}
           onChangeIndex={this.handleStepChange}
           enableMouseEvents
+          resistance
         >
           {tutorialSteps.map(step => (
             <Fullimage key={step.label} image={step.imgPath} />
